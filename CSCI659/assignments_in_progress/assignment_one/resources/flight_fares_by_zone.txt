@@ -1,5 +1,0 @@
-Within a zone	238
-Between zones 5 and 6	238
-Between zones 1,2 and 3	278
-Zone 1,2,3 to/from zone 4	318
-Zone 1,2,3 to/from zone 5 and 6	398

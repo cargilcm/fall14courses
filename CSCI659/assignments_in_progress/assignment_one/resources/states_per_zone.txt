@@ -1,6 +1,0 @@
-zone 1: AL,FL,GA,MS,NC,SC,TN
-zone 2: CT, DC, DE, MA, MD, ME, NH, NJ, NY, PA, RI, VA,VT,WV
-zone 3: IA,IL,IN,KS,KY,MI,MN,MO,NE,OH,WI
-zone 4: AR,LA,NM,OK,TX
-zone 5: CO,ID,MT,NK,SD,UT,WY
-zone 6: AZ,CA,NV,OR,WA
